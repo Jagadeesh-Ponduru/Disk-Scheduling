@@ -7,8 +7,7 @@ import javax.swing.*;
  
 public class Graph extends JPanel
 {
-	 //FCFS x = new FCFS();
-	 //String sta = x.Get();
+
 	
     int[] data;
     public Graph(int[] input,int x){
